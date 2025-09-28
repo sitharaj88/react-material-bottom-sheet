@@ -122,7 +122,7 @@ const BottomSheet: React.FC<BottomSheetProps> = ({
         previouslyFocused.current?.focus();
       };
     }
-  }, [isOpen]);
+  }, [isOpen, closeOnDragDown, closeOnDragThreshold, onClose]);
 
   // close on Escape
   useEffect(() => {

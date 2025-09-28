@@ -2,6 +2,9 @@ import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import MountainSvg from '@site/static/img/undraw_docusaurus_mountain.svg';
+import TreeSvg from '@site/static/img/undraw_docusaurus_tree.svg';
+import ReactSvg from '@site/static/img/undraw_docusaurus_react.svg';
 
 type FeatureItem = {
   title: string;
@@ -12,7 +15,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Material Design at Home',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: MountainSvg,
     description: (
       <>
         Pixel-perfect transitions, elevation, and motion that match the native
@@ -22,7 +25,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Flexible Snap Points',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: TreeSvg,
     description: (
       <>
         Define custom snap positions, drag thresholds, and fling behaviour to
@@ -32,7 +35,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Developer Friendly',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: ReactSvg,
     description: (
       <>
         Built in TypeScript with sensible defaults, accessibility helpers, and

@@ -1,6 +1,6 @@
 {
   "name": "react-material-bottom-sheet",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A React component library for Material Design bottom sheets",
   "main": "./dist/react-material-bottom-sheet.umd.cjs",
   "module": "./dist/react-material-bottom-sheet.js",
@@ -34,7 +34,18 @@
     "bottom-sheet",
     "material-design",
     "typescript",
-    "component"
+    "component",
+    "modal",
+    "drawer",
+    "sheet",
+    "ui",
+    "mobile",
+    "touch",
+    "drag",
+    "gesture",
+    "snap",
+    "accessibility",
+    "a11y"
   ],
   "author": "sitharaj88",
   "license": "Apache-2.0",

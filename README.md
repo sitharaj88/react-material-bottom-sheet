@@ -9,6 +9,11 @@ A modern, accessible React component library for Material Design bottom sheets w
 
 ![Demo](https://raw.githubusercontent.com/sitharaj88/react-material-bottom-sheet/main/docs/static/demo.gif)
 
+<div style={{textAlign: 'center', margin: '2rem 0'}}>
+  <img src={require('https://raw.githubusercontent.com/sitharaj88/react-material-bottom-sheet/main/docs/static/demo.gif').default} alt="Bottom Sheet Demo" width="600" />
+  <p><em>Watch the demo to see the drag and snap behavior in action.</em></p>
+</div>
+
 ## ✨ Features
 
 - **🎨 Material Design Compliant**: Follows Android Material Design 3 guidelines
