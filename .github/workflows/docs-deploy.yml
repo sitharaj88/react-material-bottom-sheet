@@ -23,6 +23,7 @@ jobs:
         node-version: 20
         cache: 'npm'
     - run: npm install
+    - run: cd docs && npm install
     - run: npm run docs:build
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
