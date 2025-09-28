@@ -8,7 +8,7 @@ image: /img/react-material-bottom-sheet-social.png
 # Getting Started
 
 <div style={{textAlign: 'center', margin: '2rem 0'}}>
-  <img src={require('./img/demo.gif').default} alt="Bottom Sheet Demo" width="600" />
+  <img src={require('./img/demo.gif').default} alt="Bottom Sheet Demo" width="200" />
   <p><em>Watch the demo to see the drag and snap behavior in action.</em></p>
 </div>
 

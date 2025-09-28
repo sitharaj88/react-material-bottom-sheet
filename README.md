@@ -7,10 +7,9 @@
 
 A modern, accessible React component library for Material Design bottom sheets with smooth drag gestures, snap points, and TypeScript support.
 
-![Demo](https://raw.githubusercontent.com/sitharaj88/react-material-bottom-sheet/main/docs/static/demo.gif)
 
 <div style={{textAlign: 'center', margin: '2rem 0'}}>
-  <img src={require('https://raw.githubusercontent.com/sitharaj88/react-material-bottom-sheet/main/docs/static/demo.gif').default} alt="Bottom Sheet Demo" width="600" />
+  <img src="./docs/static/demo.gif" alt="Bottom Sheet Demo" width="200" />
   <p><em>Watch the demo to see the drag and snap behavior in action.</em></p>
 </div>
 
