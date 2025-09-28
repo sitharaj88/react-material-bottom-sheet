@@ -36,8 +36,8 @@
     "typescript",
     "component"
   ],
-  "author": "Your Name",
-  "license": "MIT",
+  "author": "sitharaj88",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/sitharaj88/react-material-bottom-sheet.git"
